@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^embed$ /get_messages.php [L]
+RewriteRule ^save$ /save_message.php [L]
